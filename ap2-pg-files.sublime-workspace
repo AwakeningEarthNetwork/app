@@ -1,0 +1,1398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"errorHandler"
+			],
+			[
+				"er",
+				"errorHandler"
+			],
+			[
+				"on",
+				"onNotificationAPN"
+			],
+			[
+				"onNo",
+				"onNotificationGCM"
+			],
+			[
+				"init",
+				"initPushwoosh"
+			],
+			[
+				"off",
+				"offlineFooter"
+			],
+			[
+				"cach",
+				"cachSelectors"
+			],
+			[
+				"iframe",
+				"iframeOptions"
+			],
+			[
+				"ifra",
+				"iframeOptions"
+			],
+			[
+				"ite",
+				"itemID"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"favori",
+				"favoritesList"
+			],
+			[
+				"show",
+				"showSpinner"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"cordova",
+				"cordova-core"
+			],
+			[
+				"notific",
+				"notificationCallback"
+			],
+			[
+				"pw",
+				"pwVal"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"nav",
+				"navParams"
+			],
+			[
+				"menu",
+				"menu_exists"
+			],
+			[
+				"Vid",
+				"videoSrc"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"get_ap",
+				"get_apps_using_design"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"valid",
+				"validate_image_path"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"apppage",
+				"apppage_detail_options"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"delete",
+				"delete_aws_user"
+			],
+			[
+				"delet",
+				"delete_aws_user"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"sani",
+				"app_id_sanitize"
+			],
+			[
+				"get_app",
+				"get_app_title"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"get_current",
+				"get_current_user_id"
+			],
+			[
+				"Key",
+				"keySelect"
+			],
+			[
+				"keyse",
+				"keySelectVal"
+			],
+			[
+				"key",
+				"keyPassword"
+			],
+			[
+				"post",
+				"post_meta_array"
+			],
+			[
+				"AppPre",
+				"AppPresser_Reactor_PGB_API"
+			],
+			[
+				"p1",
+				"p12filepath"
+			],
+			[
+				"App",
+				"AppPresser_Reactor"
+			],
+			[
+				"arns",
+				"arnsString"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"delete_aws",
+				"delete_aws_everything"
+			],
+			[
+				"gcm",
+				"gcm_arn"
+			],
+			[
+				"list",
+				"list_subscribers"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"new",
+				"new_status"
+			],
+			[
+				"create",
+				"create_aws_applications"
+			],
+			[
+				"put",
+				"put_user_policy"
+			],
+			[
+				"aws",
+				"aws_setup"
+			],
+			[
+				"subs",
+				"subscribersAndroid"
+			],
+			[
+				"sub",
+				"subscribersIos"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"rec",
+				"receivedEvent"
+			],
+			[
+				"single",
+				"single-product"
+			],
+			[
+				"prod",
+				"product_meta_wrap"
+			],
+			[
+				"box-si",
+				"box-sizing"
+			],
+			[
+				"jq",
+				"jqreadyn	jQuery Ready No Conflict"
+			],
+			[
+				"a",
+				"Automattic"
+			],
+			[
+				"bgi",
+				"bgi:n	background-image:none"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "appp-plugins/apppush/appp-push-init.js",
+			"settings":
+			{
+				"buffer_size": 4408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 12595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 6584,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"snip",
+				"Snippet: if"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins"
+	],
+	"file_history":
+	[
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/offline/offline2.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/index.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/config.xml",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/init.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/style.css",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/offline/theme/style.css",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/connection.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/offline/offline.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/offline/testing/offline.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/gruntfile.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/appp.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/offline.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/apppresser2-plugins.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/plugins-concat.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/plugins-concat-stripped.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/ap2-pg-files.min.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/appcamera/appcamera.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/appp-plugins/native-transitions/appp-transitions.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/config.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/menu.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/BookmarksCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/bookmarks.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/postList/postList.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/scss/ionic.app.scss",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/PostCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/post.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/postCard/postCard.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/app.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/index.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/SettingsCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/selector-modal.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/favorites-modal.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/home.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/HomeCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/run.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/postCard/postCard.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/PostsCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/posts.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/postList/post-list-directive.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/settings.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/services/Language.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/lib/ios9-browser-patch.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/search.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/index2.html",
+		"/Users/scottopolis/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/services/Posts.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/controllers/SearchCtrl.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/services/DataLoader.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/post-list/post-list-directive.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/js/directives/post-list/postListDirective.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/wintersportnl.sublime-project",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/www/templates/resort-detail.html",
+		"/Users/scottopolis/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/hooks/after_prepare/030_modify_plist.sh",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/ap2-pg-files/site.html",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/classes/AppPresser_App_Functionality.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appcamera/js/appp-camera.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/inc/logger/appp.logger.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/inc/AppPresser_Log.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/inc/logger/class-Appp_Log.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/inc/AppBuddy_Ajax.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/js/custom.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme-child/functions.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/header.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/readme.txt",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/dev/_comments.scss",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appswiper/apppresser-swipers.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/js/custom.min.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/js/appp.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/classes/AppPresser_Extra_Functionality.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/index.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-below_post.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/classes/AppPresser_Tags.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/init.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/customizer.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-medialist.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/inc/js/appbuddy.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appcamera/appp-camera.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appcamera/inc/AppPresser_Camera_Ajax.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appcamera/inc/AppPresser_Camera_Settings.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appcamera/inc/AppPresser_Camera_Upload.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-archive.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-list.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/inc/AppBuddy_Template_Stack.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/templates/buddypress/activity/post-form.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/functions.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-single.php",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/extensions/apptheme/index.md",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appwoo/inc/AppPresser_WooCommerce_Mods.php",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/getting_started/tutorials/add_ajax_loading.md",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/inc/classes/AppPresser_Theme_Setup.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/dev/_content.scss",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/inc/AppBuddy_Modal_Buttons.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-cardlist.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/apppresser.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/dev/_base.scss",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/style.css",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/inc/EDD_SL_Theme_Updater.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush/js/appp-push-init.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/inc/AppBuddy_Notifications.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush/appp-push.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appgeo/inc/AppPresser_GeoLocation_Update.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appgeo/inc/AppPresser_GeoLocation_Shortcode.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appgeo/apppresser-geolocation.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush/inc/AppPresser_Notifications_Update.php",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/extensions/index.md",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/dev/style.scss",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/content-page.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme-child/js/app.js",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/extensions/apppush/index.md",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/single.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appfbconnect/appfbconnect.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appswiper/inc/Swiper_Shortcodes.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme/rtl.css",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush/inc/AppPresser_Notifications_CPT.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush/inc/AppPresser_Notifications_Settings.php",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/resources/index.md",
+		"/Users/scottopolis/Graphic Art/AppPresser/apppresser.com/docs/resources/community_snippets.md",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/js/ios/cordova_plugins.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/js/ios/cordova.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/readme.txt",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/js/android/cordova_plugins.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/appp-custom-cordova.php",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/js/scan-barcode.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appp-custom-cordova-files/js/barcode-scanner.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appfbconnect/js/cordova_plugins.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appfbconnect/js/cordova.js",
+		"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/pg/3.6.3/ios/cordova_plugins.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser",
+			"",
+			"\\",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/themes/apptheme",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppresser/pg",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appwoo",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/appbuddy/templates/buddypress",
+			"",
+			"/Users/scottopolis/Documents/Websites/www.wp4.dev/wp-content/plugins/apppush",
+			"",
+			"dev/",
+			"",
+			"dev/",
+			"",
+			"dev/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@media",
+			"alert",
+			"var ifr",
+			"iframe.",
+			"iframe",
+			"receivedEvent",
+			"deviceready",
+			"index.html",
+			"onlinepr",
+			"openo",
+			"online",
+			"closeOfflineModal",
+			"goOffline",
+			"closeOffline",
+			"primary",
+			".button ",
+			".button,",
+			"button",
+			"offline_fade_millisec",
+			"document.getElementById('offline-footer')",
+			"document.closeOffline",
+			"this",
+			"document.getElementById('go-online')",
+			"document.getElementById('go-offline')",
+			"document.getElementById('close-offline')",
+			"var ",
+			"goOffline",
+			"init",
+			"document.getElementById('offline-footer')",
+			"getElementById('close-offline')",
+			"document.getElementById('go-online')",
+			"document.getElementById('go-offline')",
+			" button-primary",
+			"<bu",
+			"utton",
+			"></p>",
+			"<p><",
+			"bar-hea",
+			"'strip', ",
+			"createIframe",
+			"debug.log",
+			"offlinePrompt",
+			"onlinePrompt",
+			"togglestat",
+			"remote_resources.themejs",
+			"message",
+			"platform=\"ios\"",
+			"iab",
+			"window.open",
+			"http://mysite.com",
+			"button",
+			"buttona",
+			"button",
+			"-v2",
+			"plugins-concat",
+			"console.log",
+			"apppcore.log",
+			"console.log",
+			"var appTop",
+			"window.appTop = typeof window.appTop !== 'undefined' ? window.appTop : {};\n",
+			"checkin",
+			"apppCore.onDeviceReady2",
+			"geolocat",
+			"tCam.init",
+			"appTop.camera",
+			"appgeo.openCheckinModal",
+			"checkin",
+			"appTop.camera",
+			"document.addEventListener(\"offline\"",
+			"appInit",
+			"init.js",
+			"appfbconnect.wplogin",
+			"href",
+			"ion-refresher",
+			"list",
+			"transitions",
+			"favoritesModal()",
+			"$scope.modal",
+			"translate",
+			"$scope.loadPost",
+			"$scope.itemID",
+			"postCache",
+			"postCardCtrl",
+			"favorite",
+			"item",
+			"profileCache",
+			"$wpApiTaxonomies",
+			"postsservice",
+			"vm.posts",
+			"searchCtrl",
+			"postsservice",
+			"showDelete",
+			"dataloader",
+			"DataLoader",
+			"vm",
+			"PostsService",
+			"WpApi",
+			"scottbolinger",
+			"wpApiPosts",
+			"PostsService",
+			"align",
+			"ion-refresher",
+			"callback",
+			"rootScope.url",
+			"console.log",
+			"Card",
+			"cart",
+			"posts",
+			"ionicSideMenuDelegate",
+			"tabs",
+			"balanced",
+			"roboto",
+			"-----------------------------",
+			"connectionPrompt",
+			"init",
+			"utton",
+			"get_apv2",
+			"hidden",
+			"comment_mod",
+			"appendComm",
+			"comment-list",
+			"appendComment",
+			"below_post",
+			"preventd",
+			"comment",
+			".comment-body",
+			"postm",
+			"enqueu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AppGeolocation",
+			"apppresser-push",
+			"AppPresser",
+			"AppPresser Theme",
+			", 'appp'",
+			"appp_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "appp-plugins/apppush/appp-push-init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2366,
+								2366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								1369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1124.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2360,
+								2360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ap2-pg-files.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conf",
+				"config.xml"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"init",
+				"init.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"menu",
+				"www/templates/menu.html"
+			],
+			[
+				"confi",
+				"www/js/config.js"
+			],
+			[
+				"ru",
+				"www/js/run.js"
+			],
+			[
+				"",
+				"www/js/directives/postList/postList.js"
+			],
+			[
+				"book",
+				"www/js/controllers/BookmarksCtrl.js"
+			],
+			[
+				"postlist",
+				"www/js/directives/postList/postList.js"
+			],
+			[
+				"posts",
+				"www/templates/posts.html"
+			],
+			[
+				"posl",
+				"www/js/directives/postList/postList.js"
+			],
+			[
+				"post-l",
+				"www/js/directives/postList/post-list-directive.html"
+			],
+			[
+				"post",
+				"www/js/directives/postCard/postCard.html"
+			],
+			[
+				"sett",
+				"www/js/controllers/SettingsCtrl.js"
+			],
+			[
+				"homec",
+				"www/js/controllers/HomeCtrl.js"
+			],
+			[
+				"moda",
+				"www/templates/favorites-modal.html"
+			],
+			[
+				"home",
+				"www/templates/home.html"
+			],
+			[
+				"scss",
+				"scss/ionic.app.scss"
+			],
+			[
+				"ho",
+				"www/templates/home.html"
+			],
+			[
+				"postli",
+				"www/js/directives/postList/postList.js"
+			],
+			[
+				"postcard",
+				"www/js/directives/postCard/postCard.html"
+			],
+			[
+				"postlis",
+				"www/js/directives/postList/postList.js"
+			],
+			[
+				"posc",
+				"www/js/controllers/PostCtrl.js"
+			],
+			[
+				"postsc",
+				"www/js/controllers/PostsCtrl.js"
+			],
+			[
+				"postc",
+				"www/js/controllers/PostCtrl.js"
+			],
+			[
+				"se",
+				"www/templates/search.html"
+			],
+			[
+				"hom",
+				"www/templates/home.html"
+			],
+			[
+				"sear",
+				"www/templates/search.html"
+			],
+			[
+				"fa",
+				"www/templates/favorites-modal.html"
+			],
+			[
+				"fav",
+				"www/templates/favorites-modal.html"
+			],
+			[
+				"data",
+				"www/js/services/DataLoader.js"
+			],
+			[
+				"searc",
+				"www/js/controllers/SearchCtrl.js"
+			],
+			[
+				"post-li",
+				"www/js/directives/postList/post-list-directive.html"
+			],
+			[
+				"posts.",
+				"www/templates/posts.html"
+			],
+			[
+				"postct",
+				"www/js/controllers/PostCtrl.js"
+			],
+			[
+				"postca",
+				"www/js/directives/postCard/postCard.html"
+			],
+			[
+				"po",
+				"www/js/directives/postCard/postCard.js"
+			],
+			[
+				"cust",
+				"www/templates/custom.html"
+			],
+			[
+				"api",
+				"inc/api/v1/AppPresser_Reactor_API.php"
+			],
+			[
+				"custom.j",
+				"themes/apppresser/js/custom.js"
+			],
+			[
+				"theme",
+				"apppresser-core/inc/theme-switcher.php"
+			],
+			[
+				"woo",
+				"apppresser-woocommerce/css/woocommerce.css"
+			],
+			[
+				"idang",
+				"apppresser-swipers/js/idangerous.swiper-2.2.js"
+			],
+			[
+				"woocom",
+				"apppresser-woocommerce/js/woocommerce.js"
+			],
+			[
+				"he",
+				"themes/apppresser/header.php"
+			],
+			[
+				"hea",
+				"themes/apppresser/header.php"
+			],
+			[
+				"func",
+				"themes/apppresser/functions.php"
+			],
+			[
+				"wooscss",
+				"apppresser-woocommerce/dev/woocommerce.scss"
+			],
+			[
+				"woocom.",
+				"apppresser-woocommerce/inc/woocom.php"
+			],
+			[
+				"r-core",
+				"apppresser-core/inc/theme-switcher.php"
+			],
+			[
+				"appp-set",
+				"apppresser-camera/inc/appp-settings.php"
+			],
+			[
+				"camera",
+				"apppresser-camera/appp-camera.php"
+			],
+			[
+				"core/",
+				"apppresser-core/inc/theme-switcher.php"
+			],
+			[
+				"apppresser.php",
+				"apppresser-core/apppresser.php"
+			],
+			[
+				"custo",
+				"js/custom.js"
+			],
+			[
+				"plugins",
+				"js/plugins.js"
+			],
+			[
+				"id",
+				"dev/idangerous.swiper.scss"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"app",
+				"inc/app-functionality.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"va",
+				"dev/bootstrap/_variables.scss"
+			],
+			[
+				"fron",
+				"page-front-page.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"cu",
+				"js/custom.js"
+			],
+			[
+				"sty",
+				"dev/style.scss"
+			],
+			[
+				"stru",
+				"dev/structure.scss"
+			],
+			[
+				"h",
+				"header.php"
+			],
+			[
+				"inc",
+				"inc/extras.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"js",
+				"js/custom.js"
+			],
+			[
+				"bas",
+				"dev/base.scss"
+			],
+			[
+				"head",
+				"dev/header-nav.scss"
+			],
+			[
+				".scss",
+				"dev/structure.scss"
+			],
+			[
+				"con",
+				"content.php"
+			],
+			[
+				"pag",
+				"page.php"
+			],
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"heade",
+				"dev/header-nav.scss"
+			],
+			[
+				"styl",
+				"dev/style.scss"
+			],
+			[
+				"cus",
+				"dev/custom.scss"
+			],
+			[
+				"subl",
+				"dev/jqmobile-theme.sublime-project"
+			],
+			[
+				"custom",
+				"dev/custom.scss"
+			],
+			[
+				"style",
+				"dev/style.scss"
+			],
+			[
+				"jq",
+				"dev/jqmobile-flatui.scss"
+			],
+			[
+				"struc",
+				"dev/structure.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "rea",
+		"selected_items":
+		[
+			[
+				"rea",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-power-plant/reactor-power-plant.sublime-project"
+			],
+			[
+				"wint",
+				"~/Graphic Art/AppPresser/Client Projects/wintersportnl/wintersportnl/wintersportnl.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/Websites/www.wp4.dev/wp-content/apppresser-all.sublime-project"
+			],
+			[
+				"appp",
+				"~/Documents/Websites/www.wp4.dev/wp-content/apppresser-all.sublime-project"
+			],
+			[
+				"bu",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-build/reactor-build.sublime-project"
+			],
+			[
+				"cor",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-core/reactor-core.sublime-project"
+			],
+			[
+				"co",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-core/reactor-core.sublime-project"
+			],
+			[
+				"buil",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-build/reactor-build.sublime-project"
+			],
+			[
+				"b",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-build/reactor-build.sublime-project"
+			],
+			[
+				"app",
+				"/Applications/MAMP/htdocs/apppresser.com/wp-content/apppresser.com.sublime-project"
+			],
+			[
+				"bui",
+				"~/Documents/Websites/www.wp4.dev/wp-content/plugins/reactor-build/reactor-build.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
